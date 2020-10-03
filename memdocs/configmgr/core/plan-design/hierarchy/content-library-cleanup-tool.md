@@ -25,7 +25,7 @@ ms.locfileid: "81703630"
 
 このツールでは、ツールを実行するときに指定する配布ポイントのコンテンツのみが処理されます。 このツールで、サイト サーバー上のコンテンツ ライブラリからコンテンツを削除することはできません。
 
-サイト サーバーの  **で `CD.Latest\SMSSETUP\TOOLS\ContentLibraryCleanup`ContentLibraryCleanup.exe** を探します。
+サイト サーバー上で **CD.Latest\SMSSETUP\TOOLS\ContentLibraryCleanup\ContentLibraryCleanup.exe** を探します。
 
 
 
